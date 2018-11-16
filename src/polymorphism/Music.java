@@ -7,8 +7,10 @@ public class Music {
 	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Wind flute = new Wind();
-		tune(flute); // 不需要任何类型的转换
+//		Wind flute = new Wind();
+		Instrument instrument = new Instrument();
+//		tune(flute); // 不需要任何类型的转换
+		tune(instrument);
 	}
 
 }

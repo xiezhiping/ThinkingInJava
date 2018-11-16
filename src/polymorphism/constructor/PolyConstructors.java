@@ -1,5 +1,7 @@
 package polymorphism.constructor;
-
+/*
+ * 我很喜欢这个讲解中的一句话：在逻辑方面，我们已经做得十分完美了，但是它的行为却不可思议的错了
+ */
 class Glyph {
 	void draw() {
 		System.out.println("Glyph.draw()");
